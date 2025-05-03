@@ -31,3 +31,25 @@
 | Bonus        | Unit Testing, TDD          | Ensuring your code is robust and bug-free.          |
 |              | Redis, Caching             | Improve app speed and scalability.                  |
 |              | Performance Testing        | Ensure app handles high load efficiently.           |
+
+
+<h2>Database Design</h2>
+### 🗄️ Database
+
+| **Tool/Tech**     | **Type**           | **Purpose**                                       |
+|-------------------|--------------------|---------------------------------------------------|
+| PostgreSQL        | Relational (SQL)   | Advanced features, great for production systems   |
+| MySQL             | Relational (SQL)   | Popular open-source relational database           |
+| SQLite            | Relational (SQL)   | Lightweight, ideal for development and testing    |
+| MongoDB           | NoSQL (Document)   | Flexible schema, works well with JSON-like data   |
+| Firebase Realtime | NoSQL (Realtime)   | Syncs data in real time, good for small apps      |
+### ✨ Feature Breakdown
+
+| **Feature**            | **Description** |
+|------------------------|-----------------|
+| **User Management**    | Handles user registration, login, authentication, and role-based access control. This ensures a secure and personalized experience for each user. |
+| **Property Management**| Allows users or admins to add, update, and delete property listings. This feature supports media uploads, categorization, and real-time status updates. |
+| **Booking System**     | Enables users to view availability, make reservations, and receive confirmations. It integrates with calendar systems and manages booking conflicts. |
+| **Search & Filtering** | Users can search and filter listings based on location, price, date, or other attributes. This enhances usability by helping users quickly find relevant results. |
+| **Admin Dashboard**    | Provides insights, metrics, and management tools for administrators. Helps in monitoring user activities, bookings, and system performance. |
+| **Notifications System** | Sends real-time notifications or emails for booking updates, confirmations, or admin alerts. Improves communication and user engagement. |
